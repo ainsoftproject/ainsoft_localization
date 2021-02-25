@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Локализация</string>
+    <string name="english">английский</string>
+    <string name="russian">русский</string>
+    <string name="hello">Привет, мир</string>
+</resources>
